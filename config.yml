@@ -1,0 +1,19 @@
+
+# Locations of images and fonts
+
+# target path for images to be stored
+target_path : "./synth_images"
+
+# source image paths
+image_path : "./source_images"
+
+
+# Font specific
+font_loc : "./fonts/"
+light_fonts : True   # Include if True
+
+# Split of data for orientation of text. The numbers shd add up to 100
+
+horizontal : 25
+vertical : 25
+random : 50
